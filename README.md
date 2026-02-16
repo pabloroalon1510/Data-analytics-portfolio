@@ -1,4 +1,5 @@
-![Portfolio Cover](./Cover.png)
+![Portfolio Cover](./cover.png)
+
 
 # 📊 Data Analytics Portfolio – Pablo Roa
 
