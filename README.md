@@ -107,17 +107,6 @@ Interested in Data Analytics, Business Intelligence, and data-driven decision-ma
 Continuously improving analytical, technical, and problem-solving skills through hands-on projects.
 
 
-## 🛠️ Tools & Technologies
-
-- SQL  
-- Python  
-- Microsoft Excel  
-- Data Cleaning  
-- Data Analysis  
-- Business Metrics  
-- Data Visualization
-
-
 ## 📧 Contacto
 - Email: pabloroalon@gmail.com
 - Número de contacto: +57 3167147921
