@@ -1,59 +1,62 @@
-# Data-analytics-portfolio
-Welcome to my Data Analytics Portfolio. This repository highlights practical projects where I apply SQL, Python, and analytical reasoning to explore data, evaluate performance, and generate business-oriented insights. The goal is to demonstrate structured thinking, curiosity, and a results-driven mindset.
-# 👨‍💻 Pablo Roa - Portfolio
+# 📊 Data Analytics Portfolio – Pablo Roa
 
-Bienvenido a mi portafolio personal. Aquí encontrarás mis proyectos y trabajos.
+Welcome to my Data Analytics Portfolio.  
+This repository showcases practical projects focused on SQL, Python, and Excel, highlighting analytical thinking, structured problem-solving, and business-oriented insights.
 
-## 📋 Sobre mí
-I am passionate about data analysis, problem-solving, and data-driven decision-making.
-My work focuses on transforming raw data into clear, structured, and actionable insights that support strategic and operational decisions.
-I am particularly interested in analytics, metrics, experimentation, and business performance analysis.
+---
 
 ## 📂 Featured Projects
 
 ### 🔹 Project 1 – Sales Data Cleaning & Business Performance Analysis (Excel)
 
-Data cleaning and normalization of a raw e-commerce sales dataset containing inconsistencies, missing values, and duplicates. The project focused on ensuring analytical reliability and building structured summaries to support business-oriented reporting.
+Data cleaning and normalization of a raw e-commerce dataset to ensure analytical reliability and meaningful business summaries.
 
-**Tools:** Microsoft Excel, Data Cleaning, Business Metrics  
+[View Project](./project-1-sales-data-cleaning)
 
-[View Project](./project-1-sales-data-cleaning.xlsx)
-
+---
 
 ### 🔹 Project 2 – Retail KPI & Performance Dashboard Analysis (Excel)
 
-Integration and consolidation of transactional and lookup datasets to calculate key retail performance indicators. The analysis resulted in an interactive dashboard designed for KPI monitoring and performance evaluation.
+Retail performance analysis through KPI calculation and dashboard development for decision support.
 
-**Tools:** Microsoft Excel, Data Visualization, KPI Analysis  
+[View Project](./project-2-retail-kpi-dashboard)
 
-[View Project](./project-2-retail-kpi-dashboard.xlsx)
-
+---
 
 ### 🔹 Project 3 – Financial Performance & Marketing ROI Analysis (SQL)
 
-SQL-based financial analysis evaluating revenue, cost structures, margins, and return on investment across multiple markets. The project emphasized profitability assessment and data-driven budget allocation.
+SQL-based financial analysis evaluating profitability, margins, and return on investment across markets.
 
-**Tools:** SQL, Financial Analysis, ROI Evaluation  
+[View Project](./project-3-financial-roi-analysis)
 
-[View Project](./project-3-financial-roi-analysis.sql)
-
+---
 
 ### 🔹 Project 4 – User Funnel & Retention Cohort Analysis (SQL)
 
-Analysis of user behavior across a multi-stage conversion funnel and cohort-based retention dynamics. Key drop-off points and engagement patterns were identified to generate optimization recommendations.
+Conversion funnel and retention cohort analysis focused on user behavior and performance optimization.
 
-**Tools:** SQL, Funnel Analysis, Retention Cohorts  
+[View Project](./project-4-funnel-retention-analysis)
 
-[View Project](./project-4-funnel-retention-analysis.sql)
-
+---
 
 ### 🔹 Project 5 – Urban Mobility & Economic Productivity Analysis (Python)
 
-Combination and analysis of real-world datasets to explore the relationship between traffic congestion and economic productivity. The project focused on data preparation, aggregation, and pattern detection using Python.
+Exploratory analysis of real-world datasets to evaluate relationships between congestion and productivity.
 
-**Tools:** Python, Pandas, Matplotlib, Data Analysis  
+[View Project](./project-5-urban-mobility-analysis)
 
-[View Project](./project-5-urban-mobility-analysis.ipynb)
+---
+
+## 🛠️ Tools & Technologies
+
+- SQL  
+- Python  
+- Microsoft Excel  
+- Data Cleaning  
+- Data Analysis  
+- Business Metrics  
+- Data Visualization
+
 
 
 ## 💻 Habilidades
