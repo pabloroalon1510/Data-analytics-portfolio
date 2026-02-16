@@ -10,6 +10,11 @@ My work focuses on transforming raw data into clear, structured, and actionable 
 I am particularly interested in analytics, metrics, experimentation, and business performance analysis.
 
 ## 🚀 Proyectos Destacados
+project-1-sales-data-cleaning.xlsx
+project-2-retail-kpi-dashboard.xlsx
+project-3-financial-roi-sql.sql
+project-4-funnel-retention-sql.sql
+project-5-urban-mobility-python.ipynb
 
 ### Proyecto 1
 - Descripción breve
