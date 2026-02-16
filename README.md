@@ -58,7 +58,6 @@ Exploratory analysis of real-world datasets to evaluate relationships between co
 - Data Visualization
 
 
-
 ## 💻 Habilidades
 - Lenguajes: Python, JavaScript, etc.
 - Frameworks: Django, React, etc.
