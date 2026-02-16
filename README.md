@@ -14,7 +14,9 @@ I am particularly interested in analytics, metrics, experimentation, and busines
 ### Proyecto 1
 - Descripción breve
 - Tecnologías: Python, Django, etc.
-- [Link al proyecto](./Project 1)
+- [Project 1](./project-1)
+  
+
 
 ### Proyecto 2
 - Descripción breve
