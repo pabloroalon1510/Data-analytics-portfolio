@@ -6,7 +6,13 @@
 Welcome to my Data Analytics Portfolio.  
 This repository showcases practical projects focused on SQL, Python, and Excel, highlighting analytical thinking, structured problem-solving, and business-oriented insights.
 
----
+## 👤 About Me
+
+I am passionate about data analysis, problem-solving, and data-driven decision-making.  
+My work focuses on transforming raw data into structured, meaningful, and actionable insights that support business and strategic decisions.
+I am particularly interested in analytics, business performance evaluation, metrics, and data visualization.  
+Continuously developing my technical and analytical skills through practical projects in SQL, Python, and Excel.
+
 
 ## 📂 Featured Projects
 
