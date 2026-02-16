@@ -9,24 +9,52 @@ I am passionate about data analysis, problem-solving, and data-driven decision-m
 My work focuses on transforming raw data into clear, structured, and actionable insights that support strategic and operational decisions.
 I am particularly interested in analytics, metrics, experimentation, and business performance analysis.
 
-## 🚀 Proyectos Destacados
-project-1-sales-data-cleaning.xlsx
-project-2-retail-kpi-dashboard.xlsx
-project-3-financial-roi-sql.sql
-project-4-funnel-retention-sql.sql
-project-5-urban-mobility-python.ipynb
+## 📂 Featured Projects
 
-### Proyecto 1
-- Descripción breve
-- Tecnologías: Python, Django, etc.
-- [Link al proyecto][Project 1](./project-1)
-  
+### 🔹 Project 1 – Sales Data Cleaning & Business Performance Analysis (Excel)
+
+Data cleaning and normalization of a raw e-commerce sales dataset containing inconsistencies, missing values, and duplicates. The project focused on ensuring analytical reliability and building structured summaries to support business-oriented reporting.
+
+**Tools:** Microsoft Excel, Data Cleaning, Business Metrics  
+
+[View Project](./project-1-sales-data-cleaning.xlsx)
 
 
-### Proyecto 2
-- Descripción breve
-- Tecnologías: JavaScript, React, etc.
-- [Link al proyecto](./projects/proyecto-2)
+### 🔹 Project 2 – Retail KPI & Performance Dashboard Analysis (Excel)
+
+Integration and consolidation of transactional and lookup datasets to calculate key retail performance indicators. The analysis resulted in an interactive dashboard designed for KPI monitoring and performance evaluation.
+
+**Tools:** Microsoft Excel, Data Visualization, KPI Analysis  
+
+[View Project](./project-2-retail-kpi-dashboard.xlsx)
+
+
+### 🔹 Project 3 – Financial Performance & Marketing ROI Analysis (SQL)
+
+SQL-based financial analysis evaluating revenue, cost structures, margins, and return on investment across multiple markets. The project emphasized profitability assessment and data-driven budget allocation.
+
+**Tools:** SQL, Financial Analysis, ROI Evaluation  
+
+[View Project](./project-3-financial-roi-analysis.sql)
+
+
+### 🔹 Project 4 – User Funnel & Retention Cohort Analysis (SQL)
+
+Analysis of user behavior across a multi-stage conversion funnel and cohort-based retention dynamics. Key drop-off points and engagement patterns were identified to generate optimization recommendations.
+
+**Tools:** SQL, Funnel Analysis, Retention Cohorts  
+
+[View Project](./project-4-funnel-retention-analysis.sql)
+
+
+### 🔹 Project 5 – Urban Mobility & Economic Productivity Analysis (Python)
+
+Combination and analysis of real-world datasets to explore the relationship between traffic congestion and economic productivity. The project focused on data preparation, aggregation, and pattern detection using Python.
+
+**Tools:** Python, Pandas, Matplotlib, Data Analysis  
+
+[View Project](./project-5-urban-mobility-analysis.ipynb)
+
 
 ## 💻 Habilidades
 - Lenguajes: Python, JavaScript, etc.
