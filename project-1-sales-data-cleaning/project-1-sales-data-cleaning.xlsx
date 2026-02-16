@@ -1,1 +1,28 @@
+# Sales Data Cleaning & Business Performance Analysis
+
+## Objective
+
+Clean and normalize a raw e-commerce dataset containing inconsistencies, missing values, and duplicate records to ensure analytical reliability and meaningful business insights.
+
+## Key Focus
+
+- Data cleaning and validation  
+- Dataset normalization  
+- Business metric structuring  
+- Analytical reliability  
+
+## Tools Used
+
+Microsoft Excel
+
+## Preview
+
+![Original Data](./screenshots/Datos_Originales.png)
+
+![Clean Data](./screenshots/Datos_Limpios.png)
+
+![Executive Summary](./screenshots/Resumen_Ejecutivo.png)
+
+![Visualizations](./screenshots/Visualizaciones.png)
+
 
