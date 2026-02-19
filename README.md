@@ -6,13 +6,13 @@
 Welcome to my Data Analytics Portfolio.  
 This repository showcases practical projects focused on SQL, Python, and Excel, highlighting analytical thinking, structured problem-solving, and business-oriented insights.
 
-# Hi there! I'm Pablo Roa 👋
+# Hi there! I'm Pablo Roa. 👋
 
 ### 🚀 About Me
-I am a Data Analyst passionate focused on transforming complex datasets into strategic insights and high-performance applications. I specialize in the **Python** ecosystem for data science and **React** for building interactive, user-centric interfaces.
+I am a **Data Analyst and Software Developer** focused on transforming complex datasets into strategic insights and high-performance applications. I specialize in the **Python** ecosystem for data science, **SQL** for database management, and **React** for building interactive interfaces.
 
 - 🔭 **Current Project:** Analyzing the correlation between traffic congestion (TomTom Data) and GDP per capita (OECD) in major global cities.
-- ⚙️ **My Approach:** Efficient data cleaning, robust statistical analysis, and high-clarity data visualization.
+- ⚙️ **My Approach:** Data cleaning with **Excel**, advanced querying with **SQL**, and robust statistical analysis with **Python**.
 - 🎯 **Career Goal:** Helping organizations leverage their data to drive growth and operational efficiency.
 - 📫 **Get in touch:** pabloroalon@gmail.com
 
@@ -20,28 +20,30 @@ I am a Data Analyst passionate focused on transforming complex datasets into str
 
 ### 🛠️ Tech Stack
 
-**Data Science & Backend**
+**Data Analysis & Databases**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/microsoft%20excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Frontend & Tools**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 ### 🌟 Featured Project: Traffic & Economy Analysis
 *Comprehensive data analysis identifying the impact of urban congestion on economic development.*
 
+* **Data Pipeline:** Extracted and cleaned data using **Excel** and **SQL**, followed by advanced processing in **Python**.
 * **Economic Distribution:** Histograms showcasing the GDP per capita distribution across urban centers.
 * **Congestion Ranking:** Dual-axis visualizations comparing Jams Delay vs. Urban Wealth.
-* **Tech Used:** Python (Pandas, Seaborn, Matplotlib).
+* **Tech Used:** Python (Pandas, Seaborn), SQL, Excel.
 
 ---
 
 🔗 **Let's Connect:**
 [LinkedIn](www.linkedin.com/in/pablo-roa-londono)
+
 
 
 ## 👤 About Me
