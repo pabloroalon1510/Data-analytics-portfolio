@@ -150,5 +150,5 @@ Continuously improving analytical, technical, and problem-solving skills through
 ## 📧 Contacto
 - Email: pabloroalon@gmail.com
 - Número de contacto: +57 3167147921
-- LinkedIn: www.linkedin.com/in/pablo-roa-975b51230
+- LinkedIn: www.linkedin.com/in/pablo-roa-londono
 - GitHub: github.com/pabloroalon1510
