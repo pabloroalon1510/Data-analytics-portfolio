@@ -5,19 +5,20 @@
 
 Welcome to my Data Analytics Portfolio.  
 This repository showcases practical projects focused on SQL, Python, and Excel, highlighting analytical thinking, structured problem-solving, and business-oriented insights.
-# ¡Hola! Soy Pablo Roa 👋
 
-### 🚀 Sobre mí
-Soy un **Desarrollador y Analista de Datos** enfocado en transformar grandes volúmenes de información en decisiones estratégicas. Me especializo en el stack de **Python** para ciencia de datos y **React** para el desarrollo de interfaces dinámicas.
+# Hi there! I'm Pablo Roa 👋
 
-- 🔭 **Proyecto actual:** Análisis de correlación entre el tráfico vehicular (TomTom) y el PIB per cápita (OCDE).
-- ⚙️ **Mi enfoque:** Limpieza de datos eficiente, análisis estadístico y visualizaciones de alta claridad.
-- 🎯 **Objetivo:** Ayudar a las organizaciones a interpretar sus datos para optimizar procesos.
-- 📬 **Contacto:** pabloroalon@gmail.com
+### 🚀 About Me
+I am a Data Analyst passionate focused on transforming complex datasets into strategic insights and high-performance applications. I specialize in the **Python** ecosystem for data science and **React** for building interactive, user-centric interfaces.
+
+- 🔭 **Current Project:** Analyzing the correlation between traffic congestion (TomTom Data) and GDP per capita (OECD) in major global cities.
+- ⚙️ **My Approach:** Efficient data cleaning, robust statistical analysis, and high-clarity data visualization.
+- 🎯 **Career Goal:** Helping organizations leverage their data to drive growth and operational efficiency.
+- 📫 **Get in touch:** pabloroalon@gmail.com
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Tech Stack
 
 **Data Science & Backend**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,25 +30,19 @@ Soy un **Desarrollador y Analista de Datos** enfocado en transformar grandes vol
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-### 📊 Mis Estadísticas de GitHub
-![Estadísticas de [TU_USUARIO]](https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=radical&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&theme=radical)
+### 🌟 Featured Project: Traffic & Economy Analysis
+*Comprehensive data analysis identifying the impact of urban congestion on economic development.*
 
----
-
-### 🌟 Proyecto Destacado: Análisis de Tráfico y Economía
-*Análisis masivo de datos para identificar el impacto de la congestión vial en el desarrollo económico.*
-
-* **Histograma de Economía:** Visualización de la distribución del PIB per cápita en las principales ciudades.
-* **Ranking de Congestión:** Comparativa de doble eje entre retrasos (Jams Delay) y riqueza urbana.
-* **Tecnologías:** Python, Pandas, Seaborn, Matplotlib.
+* **Economic Distribution:** Histograms showcasing the GDP per capita distribution across urban centers.
+* **Congestion Ranking:** Dual-axis visualizations comparing Jams Delay vs. Urban Wealth.
+* **Tech Used:** Python (Pandas, Seaborn, Matplotlib).
 
 ---
 
-🔗 **Encuéntrame en:**
-[LinkedIn](www.linkedin.com/in/pablo-roa-londono) 
+🔗 **Let's Connect:**
+[LinkedIn](www.linkedin.com/in/pablo-roa-londono)
+
 
 ## 👤 About Me
 
