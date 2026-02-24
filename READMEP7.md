@@ -37,7 +37,7 @@ Ejecuta las celdas de código en orden secuencial.
 **🛠 Guía de Reproducción**
 Para replicar el análisis en tu entorno local:
 
-Clonar el repositorio: git clone [https://github.com/pabloroalon1510/Data-analytics-portfolio]
+Clonar el repositorio: git clone [https://github.com/pabloroalon1510/Data-analytics-portfolio/blob/main/P7%20Project-ConnectaTel.ipynb]
 
 Requisitos: Asegúrate de tener instalado Python 3.9+ y las librerías necesarias:
 
